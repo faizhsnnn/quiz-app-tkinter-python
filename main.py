@@ -1,0 +1,1 @@
+self.true_button.config(state="disabled")
